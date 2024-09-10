@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Personalregister
 {
-    //Class of employers with the attributes names and wages.
+    //Class of employers with the attributes Name and Wage.
     internal class Employee
     {
         public string Name {  get; set; }
